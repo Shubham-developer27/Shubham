@@ -115,7 +115,7 @@ padding-top:30px;
   text-decoration: none;
   line-height: 3;
 }
-
+   
 .btn:hover {
   background: #30e3cb;
   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
@@ -125,3 +125,4 @@ padding-top:30px;
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
